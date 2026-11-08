@@ -1,3 +1,4 @@
 hello i am 1.txt file
 bye bye jjj
 bye bye 111
+hello i am new text in 1.txt 
