@@ -1,0 +1,6 @@
+hello i am 1.txt file
+<<<<<<< HEAD:1.txt
+bye bye jjj
+=======
+bye bye 111
+>>>>>>> feature-revolution:text files/1.txt
